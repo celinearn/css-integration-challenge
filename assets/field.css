@@ -1,0 +1,154 @@
+body {
+	padding-top: 5%;
+}
+
+h1 {
+	font-size:60px;
+	text-align: center;
+}
+
+.ex1 {
+	padding-top: 10%;
+}
+
+
+.npm {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+h2 {
+	color: #88c39c;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 30px;
+}
+
+p {
+	font-family: 'Fira Sans', sans-serif;
+	color:#8f8f8f;
+}
+
+
+/* exercice 2*/
+.card1 {
+	background-color: #468df1 !important;
+	border: 10px solid #f2f2f2;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	font-family: 'roboto';
+
+}
+
+.ex2 {
+	font-size: 15px;
+	text-align: left;
+	color: #dee6f6;
+	font-family: 'roboto';
+
+}
+
+.exx2 {
+	color: #dee6f6;
+	font-size: 50px;
+}
+
+small {
+	color: #dee6f6;
+}
+
+table {
+	color: #dee6f6;
+}
+
+th {
+	font-family: 'roboto' !important;
+}
+
+.td {
+	padding-left: 50px;
+	text-align: right;
+	}
+
+.r {
+	text-align: right;
+	text-transform: uppercase;
+	color: #dee6f6;
+	font-family: 'roboto';
+	font-weight: lighter;
+
+}
+
+td {
+	border-bottom: 0.1mm solid #dee6f6;
+}
+
+hr {
+	color:#dee6f6;
+}size
+
+.far {
+	color: white;
+}
+
+/*Exercice 3*/
+
+.card2 {
+	margin-top: 8%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.caard {
+	margin-bottom: 20%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+img.guy {
+	-webkit-border-radius:25px;
+    -moz-border-radius:25px;
+    border-radius:25px;
+    width:50px;
+    height:50px;
+}
+
+img.card-img {
+	width: 130%;
+}
+
+.lol {
+	margin-right: 1px;
+	padding-left: 80px;
+}
+
+.card-title {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.bouya {
+	padding-top: 55px;
+	font-size: 14px;
+}
+
+.josiah {
+	font-weight: bold;
+}
+
+.bi-chevron-down, .bi-bookmark {
+	color: #a1a1a1;
+	font-size: 22px;
+}
+
+
